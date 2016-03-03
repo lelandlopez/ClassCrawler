@@ -3,7 +3,7 @@ Class Crawler
 
 Scrapes Public University Websites for class availability.
 
-Application watches class availab 
+Application watches class availabilities and notifies student when they are available. 
 
 
 Usage
