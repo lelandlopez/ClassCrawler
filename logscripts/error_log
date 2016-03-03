@@ -1,0 +1,127 @@
+[18-May-2014 03:28:31 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[18-May-2014 03:28:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[18-May-2014 03:28:40 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[18-May-2014 03:28:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[19-May-2014 11:18:35 UTC] PHP Notice:  Undefined variable: myusername in /home/lelandlopez/public_html/logscripts/check_login.php on line 17
+[19-May-2014 11:18:35 UTC] PHP Notice:  Undefined variable: mypassword in /home/lelandlopez/public_html/logscripts/check_login.php on line 17
+[19-May-2014 11:18:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:17) in /home/lelandlopez/public_html/logscripts/check_login.php on line 39
+[19-May-2014 11:18:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 41
+[19-May-2014 11:18:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:17) in /home/lelandlopez/public_html/logscripts/check_login.php on line 41
+[19-May-2014 16:37:24 UTC] PHP Notice:  Undefined variable: myusername in /home/lelandlopez/public_html/logscripts/check_login.php on line 17
+[19-May-2014 16:37:24 UTC] PHP Notice:  Undefined variable: mypassword in /home/lelandlopez/public_html/logscripts/check_login.php on line 17
+[19-May-2014 16:37:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:17) in /home/lelandlopez/public_html/logscripts/check_login.php on line 39
+[19-May-2014 16:37:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 41
+[19-May-2014 16:37:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:17) in /home/lelandlopez/public_html/logscripts/check_login.php on line 41
+[19-May-2014 16:39:37 UTC] PHP Notice:  Undefined variable: myusername in /home/lelandlopez/public_html/logscripts/check_login.php on line 17
+[19-May-2014 16:39:37 UTC] PHP Notice:  Undefined variable: mypassword in /home/lelandlopez/public_html/logscripts/check_login.php on line 17
+[19-May-2014 16:39:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:17) in /home/lelandlopez/public_html/logscripts/check_login.php on line 39
+[19-May-2014 16:39:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 41
+[19-May-2014 16:39:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:17) in /home/lelandlopez/public_html/logscripts/check_login.php on line 41
+[19-May-2014 16:39:47 UTC] PHP Notice:  Undefined variable: myusername in /home/lelandlopez/public_html/logscripts/check_login.php on line 17
+[19-May-2014 16:39:47 UTC] PHP Notice:  Undefined variable: mypassword in /home/lelandlopez/public_html/logscripts/check_login.php on line 17
+[19-May-2014 16:39:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:17) in /home/lelandlopez/public_html/logscripts/check_login.php on line 39
+[19-May-2014 16:39:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 41
+[19-May-2014 16:39:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:17) in /home/lelandlopez/public_html/logscripts/check_login.php on line 41
+[19-May-2014 16:40:24 UTC] PHP Notice:  Undefined variable: myusername in /home/lelandlopez/public_html/logscripts/check_login.php on line 16
+[19-May-2014 16:40:24 UTC] PHP Notice:  Undefined variable: mypassword in /home/lelandlopez/public_html/logscripts/check_login.php on line 16
+[19-May-2014 16:40:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:16) in /home/lelandlopez/public_html/logscripts/check_login.php on line 38
+[19-May-2014 16:40:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[19-May-2014 16:40:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:16) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[19-May-2014 16:43:02 UTC] PHP Notice:  Undefined index: $mypassword in /home/lelandlopez/public_html/logscripts/check_login.php on line 16
+[19-May-2014 16:43:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:16) in /home/lelandlopez/public_html/logscripts/check_login.php on line 38
+[19-May-2014 16:43:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[19-May-2014 16:43:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:16) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[27-May-2014 00:59:46 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[27-May-2014 00:59:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[27-May-2014 01:12:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[27-May-2014 01:12:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:28:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:28:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:29:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:29:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:30:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:30:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:30:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:30:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:30:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:30:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:31:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:31:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:32:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:32:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:32:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:32:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:33:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:33:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:33:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:33:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:33:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:33:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:33:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:33:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:49:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:49:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:56:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:56:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:59:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:59:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:59:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 17:59:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 18:04:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 18:04:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 18:04:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 18:04:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[29-May-2014 19:29:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[01-Jun-2014 19:49:20 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[01-Jun-2014 19:49:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[01-Jun-2014 19:49:26 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[01-Jun-2014 19:49:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[01-Jun-2014 19:49:35 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[01-Jun-2014 19:49:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[03-Jun-2014 23:29:30 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[03-Jun-2014 23:29:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[04-Jun-2014 17:25:36 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[04-Jun-2014 17:25:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[05-Jun-2014 19:35:35 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[05-Jun-2014 19:35:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[06-Jun-2014 17:46:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[06-Jun-2014 17:46:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[06-Jun-2014 17:47:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[06-Jun-2014 17:47:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[07-Jun-2014 19:00:02 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[07-Jun-2014 19:00:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[09-Jun-2014 04:05:23 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[09-Jun-2014 04:05:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[10-Jun-2014 04:00:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[10-Jun-2014 04:00:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[10-Jun-2014 18:35:32 UTC] PHP Notice:  Undefined index: current_url in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[10-Jun-2014 18:35:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:33) in /home/lelandlopez/public_html/logscripts/check_login.php on line 33
+[26-Jun-2014 23:18:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[26-Jun-2014 23:18:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:40) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[03-Jul-2014 00:20:08 UTC] PHP Notice:  Undefined variable: value in /home/lelandlopez/public_html/logscripts/check_signup.php on line 12
+[03-Jul-2014 00:20:08 UTC] PHP Warning:  Creating default object from empty value in /home/lelandlopez/public_html/logscripts/check_signup.php on line 12
+[03-Jul-2014 00:20:08 UTC] PHP Fatal error:  Cannot access empty property in /home/lelandlopez/public_html/logscripts/check_signup.php on line 12
+[03-Jul-2014 00:22:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_signup.php:17) in /home/lelandlopez/public_html/logscripts/check_signup.php on line 15
+[03-Jul-2014 00:22:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_signup.php:17) in /home/lelandlopez/public_html/logscripts/check_signup.php on line 15
+[03-Jul-2014 00:22:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_signup.php:17) in /home/lelandlopez/public_html/logscripts/check_signup.php on line 15
+[03-Jul-2014 00:22:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_signup.php:17) in /home/lelandlopez/public_html/logscripts/check_signup.php on line 15
+[03-Jul-2014 00:22:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_signup.php:17) in /home/lelandlopez/public_html/logscripts/check_signup.php on line 15
+[03-Jul-2014 00:22:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_signup.php:17) in /home/lelandlopez/public_html/logscripts/check_signup.php on line 15
+[03-Jul-2014 00:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_signup.php:17) in /home/lelandlopez/public_html/logscripts/check_signup.php on line 21
+[03-Jul-2014 00:27:08 UTC] PHP Notice:  Undefined index: email in /home/lelandlopez/public_html/logscripts/check_signup.php on line 25
+[03-Jul-2014 00:41:58 UTC] PHP Notice:  Undefined index: password in /home/lelandlopez/public_html/logscripts/check_signup.php on line 29
+[03-Jul-2014 00:41:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_signup.php:29) in /home/lelandlopez/public_html/logscripts/check_signup.php on line 31
+[05-Jul-2014 18:06:55 UTC] PHP Notice:  Undefined index: myusername in /home/lelandlopez/public_html/logscripts/check_login.php on line 16
+[05-Jul-2014 18:06:55 UTC] PHP Notice:  Undefined index: mypassword in /home/lelandlopez/public_html/logscripts/check_login.php on line 16
+[05-Jul-2014 18:06:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:16) in /home/lelandlopez/public_html/logscripts/check_login.php on line 38
+[05-Jul-2014 18:06:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
+[05-Jul-2014 18:06:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lelandlopez/public_html/logscripts/check_login.php:16) in /home/lelandlopez/public_html/logscripts/check_login.php on line 40
